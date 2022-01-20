@@ -3,7 +3,7 @@
 
 ## Desafio de projeto proposto pela Digital Innovation One durante o Bootcamp GFT start #3 Java.
 
-Abaixo considero algumas dicas e atalhos via terminal, em relação ao uso do Git e GitHub de maneira simples, segue abaixo:
+Abaixo alguns comandos via terminal em relação ao uso do Git e GitHub de maneira simples, segue abaixo:
 
 ### Criar novo repositório via linha de comando:
 
