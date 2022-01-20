@@ -21,5 +21,7 @@ Abaixo considero algumas dicas e atalhos via terminal, em relação ao uso do Gi
 2. git branch -M main
 3. git push -u origin main
 
+### Adicionando SSH:
 
+1. ssh-add ~/.ssh/"SSH"
 
