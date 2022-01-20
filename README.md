@@ -7,21 +7,25 @@ Abaixo considero algumas dicas e atalhos via terminal, em relação ao uso do Gi
 
 ### Criando um novo repositório via linha de comando:
 
-1. echo "#git-teste" >> README.md
+1. echo "#repository-name" >> README.md
 2. git init
 3. git add README.md
 4. git commit -m "first commit"
 5. git branch -M main
-6. git remote add origin git@github.com:user/git-teste.git
+6. git remote add origin git@github.com:user/repository-name.git
 7. git push -u origin main
 
 ### Enviando um repositório existente via linha de comando:
 
-1. git remote add origin git@github.com:jonathanviana/git-teste.git
+1. git remote add origin git@github.com:user/repository-name.git
 2. git branch -M main
 3. git push -u origin main
 
 ### Adicionando SSH:
 
 1. ssh-add ~/.ssh/"SSH"
+
+### Clonando um repositório:
+
+1. git clone git@github.com:user/repository-name.git
 
