@@ -41,5 +41,9 @@ Abaixo considero algumas dicas e atalhos via terminal, em relação ao uso do Gi
 
 1. git branch --list
 
+### Verificar alterações:
+
+1. git log
+
 
 
