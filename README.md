@@ -1,11 +1,11 @@
-![https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2020/08/06103546/comandos-git.png!](https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2020/08/06103546/comandos-git.png)
+![https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2020/08/06103546/comandos-git.png](https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2020/08/06103546/comandos-git.png)
 
 
 ## Desafio de projeto proposto pela Digital Innovation One durante o Bootcamp GFT start #3 Java.
 
 Abaixo considero algumas dicas e atalhos via terminal, em relação ao uso do Git e GitHub de maneira simples, segue abaixo:
 
-### Criando um novo repositório via linha de comando:
+### Criar novo repositório via linha de comando:
 
 1. echo "#repository-name" >> README.md
 2. git init
@@ -44,6 +44,12 @@ Abaixo considero algumas dicas e atalhos via terminal, em relação ao uso do Gi
 ### Verificar alterações:
 
 1. git log
+
+### Links Úteis:
+
+https://git-scm.com/
+
+https://www.markdownguide.org/basic-syntax/
 
 
 
