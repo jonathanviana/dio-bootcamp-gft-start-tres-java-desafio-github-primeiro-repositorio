@@ -29,3 +29,7 @@ Abaixo considero algumas dicas e atalhos via terminal, em relação ao uso do Gi
 
 1. git clone git@github.com:user/repository-name.git
 
+### Crinado uma nova branch:
+
+1. git branch -m "nome da nova branch"
+
