@@ -15,5 +15,11 @@ Abaixo considero algumas dicas e atalhos via terminal, em relação ao uso do Gi
 6. git remote add origin git@github.com:user/git-teste.git
 7. git push -u origin main
 
+### Enviando um repositório existente via linha de comando:
+
+1. git remote add origin git@github.com:jonathanviana/git-teste.git
+2. git branch -M main
+3. git push -u origin main
+
 
 
