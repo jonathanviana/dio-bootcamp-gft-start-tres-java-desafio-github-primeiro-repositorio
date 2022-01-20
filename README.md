@@ -37,3 +37,9 @@ Abaixo considero algumas dicas e atalhos via terminal, em relação ao uso do Gi
 
 1. git branch -d
 
+### Listar as branch's existentes:
+
+1. git branch --list
+
+
+
